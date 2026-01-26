@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/1200-minimum-absolute-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -42,4 +43,8 @@
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Sorting
+|  |
+| ------- |
+| [1200-minimum-absolute-difference](https://github.com/RandomSummer/LeetCode-Problem-Solution/tree/master/1200-minimum-absolute-difference) |
 <!---LeetCode Topics End-->
